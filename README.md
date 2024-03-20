@@ -5,7 +5,7 @@
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
   - [Dataset Description](#dataset-description)
-- [Tool(s) Used](#tool(s)-used)
+- [Tool Used](#tool-used)
 - [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
@@ -36,3 +36,7 @@ The dataset comprises the following attributes:
  10. **State**: State where the car owner resides.
  11. **Product Name**: Name of the insurance product.
  12. **Target**: Target variable (e.g., likelihood of policy renewal, customer churn, etc.).
+
+### Tool Used
+
+
