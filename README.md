@@ -50,13 +50,11 @@ Python is a versatile programming language renowned for its extensive libraries 
 
 
 ### Data Cleaning and Preprocessing
-
+---
 In data cleaning and preprocessing, missing values, outliers, and inconsistencies in the dataset were handled.
 
 By addressing missing values, outliers, and inconsistencies in the dataset during the data cleaning and preprocessing stage, analysts ensure that the data is reliable, accurate, and suitable for further analysis, leading to more robust and trustworthy results.
 
-
 ![](Capture 1.JPG)
-
 
 First I imported Python libraries (Pandas, NumPy) to facilitate efficient data manipulation, exploration, and visualization tasks ensuring its suitability for analysis.
