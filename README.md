@@ -29,7 +29,7 @@ The dataset comprises the following attributes:
   3. **Policy End Date**: Date when the car insurance policy ends.
   4. **Gender**: Gender of the car owner.
   5. **Age**: Age of the car owner.
-  6. **Car Category**: Category or type of the car (e.g., sedan, SUV, truck).
+  6. **Car Category**: Category or type of the car (e.g., Saloon, Jeep).
   7. **Subject Car Colour**: Colour of the car owned by the individual.
   8. **Subject Car Make**: Make or manufacturer of the car owned by the individual.
   9. **LGA (Local Government Area)**: Geographic area where the car owner resides.
