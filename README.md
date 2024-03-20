@@ -15,7 +15,9 @@
 
 ### Project Overview
 
-The Car Owner Dataset Analysis project aims to explore and analyze a dataset containing information about car owners. By examining various attributes such as policy start and end dates, demographic information, car details, and geographic location, this project seeks to uncover insights that could inform business strategies, marketing campaigns, and risk assessment processes within the automotive industry.
+The Car Owner Dataset Analysis project aims to explore and analyze a dataset containing information about car owners. By examining various attributes such as policy start and end dates, demographic information, car details, and geographic location, this project seeks to uncover insights that could inform business strategies, marketing campaigns, and risk assessment processes within the automotive industry. 
+
+However, this project narrows down to data manipulations, exploration and a few visual relationships.
 
 ### Data Source
 The dataset utilized in this analysis consists of information pertaining to car owners. It was sourced from "Nig_data.csv", a reputable data provider known for its comprehensive datasets in the automotive domain.
@@ -39,4 +41,8 @@ The dataset comprises the following attributes:
 
 ### Tool Used
 
+I used Python (Google Collab) for this analysis.
+Python is a versatile programming language renowned for its extensive libraries and robust data analysis capabilities, was utilized as the primary tool for conducting the analysis of the car owner dataset.
+
+I imported Python libraries (Pandas, NumPy, Matplotlib) to facilitate efficient data manipulation, exploration, and visualization tasks.
 
