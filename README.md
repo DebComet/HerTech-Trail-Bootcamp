@@ -13,11 +13,13 @@
 - [Recommendations](#recommendations)
 - [Limitation(s)](#limitation(s))
 
+
 ### Project Overview
 ---
 The Car Owner Dataset Analysis project aims to explore and analyze a dataset containing information about car owners. By examining various attributes such as policy start and end dates, demographic information, car details, and geographic location, this project seeks to uncover insights that could inform business strategies, marketing campaigns, and risk assessment processes within the automotive industry. 
 
 However, this project narrows down to data manipulations, exploration and a few visual relationships.
+
 
 ### Data Source
 ---
@@ -39,6 +41,7 @@ The dataset comprises the following attributes:
  10. **State**: State where the car owner resides.
  11. **Product Name**: Name of the insurance product.
  12. **Target**: Target variable (e.g., likelihood of policy renewal, customer churn, etc.).
+
 
 ### Tool Used
 ---
