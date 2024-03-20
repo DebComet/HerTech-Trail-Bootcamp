@@ -2,12 +2,12 @@
 
 
 ## **Table of Contents**
-- Project Overview
+- [Project Overview](#project-overview)
 - [Data Source](#data-source)
-- Tool(s) Used
-- Data Cleaning and Preparation
-- Exploratory Data Analysis
-- Data Analysis
-- Results and Findings
-- Recommendations
-- Limitation(s)
+- [Tool(s) Used](#tool(s)-used)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
+- [Exploratory Data Analysis](#exploratory-data-analysis)
+- [Data Analysis](#data-analysis)
+- [Results and Findings](#results-and-findings)
+- [Recommendations](#recommendations)
+- [Limitation(s)](#limitation(s))
