@@ -48,5 +48,14 @@ The dataset comprises the following attributes:
 I used Python (Google Collab) for this analysis.
 Python is a versatile programming language renowned for its extensive libraries and robust data analysis capabilities, was utilized as the primary tool for conducting the analysis of the car owner dataset.
 
-I imported Python libraries (Pandas, NumPy, Matplotlib) to facilitate efficient data manipulation, exploration, and visualization tasks.
 
+### Data Cleaning and Preprocessing
+
+In data cleaning and preprocessing, missing values, outliers, and inconsistencies in the dataset were handled.
+
+By addressing missing values, outliers, and inconsistencies in the dataset during the data cleaning and preprocessing stage, analysts ensure that the data is reliable, accurate, and suitable for further analysis, leading to more robust and trustworthy results.
+
+[![Octocat](capture 1.JPG)
+
+
+First I imported Python libraries (Pandas, NumPy) to facilitate efficient data manipulation, exploration, and visualization tasks ensuring its suitability for analysis.
