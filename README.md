@@ -57,7 +57,7 @@ By addressing missing values, outliers, and inconsistencies in the dataset durin
 
  - First, I imported Python libraries (Pandas, NumPy) to facilitate efficient data manipulation, exploration, and visualization tasks yet ensuring its suitability for analysis.
 
-![](Capture-1.JPG)
+![]Capture-1.JPG
 
  - Next the data is read thus:     `df = pd.read_csv(r'C:\Users\hp\Downloads\Nig_data - Nig_data (1).csv')`
 
