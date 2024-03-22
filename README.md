@@ -56,7 +56,8 @@ In data cleaning and preprocessing, missing values, outliers, and inconsistencie
 By addressing missing values, outliers, and inconsistencies in the dataset during the data cleaning and preprocessing stage, analysts ensure that the data is reliable, accurate, and suitable for further analysis, leading to more robust and trustworthy results.
 
  - First, I imported Python libraries (Pandas, NumPy) to facilitate efficient data manipulation, exploration, and visualization tasks yet ensuring its suitability for analysis.
-![](Capture 1.JPG)
+
+![](Capture-1.JPG)
 
  - Next the data is read thus:     `df = pd.read_csv(r'C:\Users\hp\Downloads\Nig_data - Nig_data (1).csv')`
 
