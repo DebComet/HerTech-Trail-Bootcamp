@@ -57,7 +57,7 @@ By addressing missing values, outliers, and inconsistencies in the dataset durin
 
  - First, I imported Python libraries (Pandas, NumPy) to facilitate efficient data manipulation, exploration, and visualization tasks yet ensuring its suitability for analysis.
 
-
+![library import](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/57fdf08e-df1b-4638-9f2a-92b8e8fa0ddc)
  - Next the data is read thus:     `df = pd.read_csv(r'C:\Users\hp\Downloads\Nig_data - Nig_data (1).csv')`
 ![Capture 1](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/d3e0e045-07ed-409f-a544-2bdb7f96611e)
 
