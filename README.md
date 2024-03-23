@@ -46,6 +46,7 @@ The dataset comprises the following attributes:
 ### Tool Used
 ---
 I used Python (Google Collab) for this analysis [See Here](https://colab.research.google.com/#scrollTo=GJBs_flRovLc)
+
 Python is a versatile programming language renowned for its extensive libraries and robust data analysis capabilities, was utilized as the primary tool for conducting the analysis of the car owner dataset.
 
 
@@ -107,3 +108,10 @@ By addressing missing values, outliers, and inconsistencies in the dataset durin
 - Data is now clean!
 
 ![df clean](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/9a718aee-3a9a-4e8c-b405-6a6b3e570f48)
+
+### Exploratory Data Analysis
+
+Exploratory Data Analysis (EDA) serves as a fundamental pillar in the data analysis journey. It helps us see what's in the data and understand it better. By looking closely at the data, we can spot any problems or tricky things that need fixing before we start doing complicated stuff. EDA basically helps us build a strong base so we can explore the data more confidently later on.
+
+ - I imported matplotlip to further undertand the data
+
