@@ -45,7 +45,7 @@ The dataset comprises the following attributes:
 
 ### Tool Used
 ---
-I used Python (Google Collab) for this analysis.
+I used Python (Google Collab) for this analysis [Download Here](https:/www.colab.google)
 Python is a versatile programming language renowned for its extensive libraries and robust data analysis capabilities, was utilized as the primary tool for conducting the analysis of the car owner dataset.
 
 
@@ -58,6 +58,7 @@ By addressing missing values, outliers, and inconsistencies in the dataset durin
  - First, I imported Python libraries (Pandas, NumPy) to facilitate efficient data manipulation, exploration, and visualization tasks yet ensuring its suitability for analysis.
 
 ![library import](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/57fdf08e-df1b-4638-9f2a-92b8e8fa0ddc)
+
  - Next the data is read thus:     `df = pd.read_csv(r'C:\Users\hp\Downloads\Nig_data - Nig_data (1).csv')`
 ![Capture 1](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/d3e0e045-07ed-409f-a544-2bdb7f96611e)
 
@@ -84,19 +85,25 @@ By addressing missing values, outliers, and inconsistencies in the dataset durin
 ![Data cleaning](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/a614a42c-2f40-4738-9c54-522968edc639)
 
    - I handled the datatypes
+
 ![Handeling datatype](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/e89a0bea-0b97-432a-8462-fc77be06f162)
 
    - I handled null vaues
+
 ![handling null values 1](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/eb85a2fa-37b0-4edf-8aba-ddd461b4acd8)
 
 ![handling null values 2](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/7ddc15ae-0651-4b5b-bc34-864bf142eeaa)
 
-   - Data inconistencie were also handles
+   - Data inconistencies were also handled
+
 ![handling data incnsistencies](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/b72fbcd0-5a43-4cae-8807-589fe3aa8373)
 
 ![handling data inconsistencies 2](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/25204c8b-b6af-46f3-98e5-03f4c1d01e61)
 
-![handling data inconsistencies 3](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/1b81e0e4-92a2-41a5-b4f8-748542f9304e)
-
    - I cleaned the LGA names
+
+![LGA NAMES](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/ec6d7abd-5be8-46fc-bbcb-309c7f3ca298)
+
 - Data is now clean!
+
+![df clean](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/9a718aee-3a9a-4e8c-b405-6a6b3e570f48)
