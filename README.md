@@ -65,8 +65,7 @@ By addressing missing values, outliers, and inconsistencies in the dataset durin
     - I checked for datatypes   `df.dtypes` and the inaccurate datatypes noted
     - I checked for null values and duplicates
    
-   print(df.isnull().sum())
-   print(f"This is the number of duplicates: {df.duplicated().sum()}")
-      
+`print(df.isnull().sum())`
+`print(f"This is the number of duplicates: {df.duplicated().sum()}")`
 
 
