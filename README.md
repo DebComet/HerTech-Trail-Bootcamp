@@ -8,9 +8,7 @@
 - [Tool Used](#tool-used)
 - [Data Cleaning and Preprocessing](#data-cleaning-and-preprocessing)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Data Analysis](#data-analysis)
 - [Results and Findings](#results-and-findings)
-- [Recommendations](#recommendations)
 - [Limitation(s)](#limitation(s))
 
 
@@ -18,7 +16,7 @@
 ---
 The Car Owner Dataset Analysis project aims to explore and analyze a dataset containing information about car owners. By examining various attributes such as policy start and end dates, demographic information, car details, and geographic location, this project seeks to uncover insights that could inform business strategies, marketing campaigns, and risk assessment processes within the automotive industry. 
 
-However, this project narrows down to data manipulations, exploration and a few visual relationships.
+However, this project narrows down to data manipulation, exploration and a few visual relationships.
 
 
 ### Data Source
@@ -122,3 +120,11 @@ Exploratory Data Analysis (EDA) serves as a fundamental pillar in the data analy
 ![EDA 3](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/a0ba0d73-bc44-4f8d-bfaa-c44ee7714766)
 
 ![EDA 4](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/770a1cde-1de8-4ca0-b035-b315eceecc67)
+
+### Results/Findings
+  - Good study and understanding of the dataset will help an analysis use the best approach in analyzing the data.
+  - In cases where the are numerous null values, an analysis mustn't consider eliminating them, but should rather ask questions or should consider replacing the null values with the     
+    mode of the distribution as an alterntive.
+
+### Limitation(s)
+I had to replace the null values with the mode of the ditribution in other not to loose vital information in the dataset that would affect he accuracy of my concluion from the analysis.
