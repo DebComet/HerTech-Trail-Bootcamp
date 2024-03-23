@@ -80,5 +80,6 @@ By addressing missing values, outliers, and inconsistencies in the dataset durin
 ![Outliers](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/238db8ef-5ce1-41ba-9b9e-7e5845dc562c)
 
 - Then data cleaning proper
+
 ![Data cleaning](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/a614a42c-2f40-4738-9c54-522968edc639)
 
