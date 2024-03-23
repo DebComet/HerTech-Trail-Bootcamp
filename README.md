@@ -83,3 +83,8 @@ By addressing missing values, outliers, and inconsistencies in the dataset durin
 
 ![Data cleaning](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/a614a42c-2f40-4738-9c54-522968edc639)
 
+   - I handled the datatypes
+   - I handled null vaues
+   - Data inconistencie were also handles
+   - I cleaned the LGA names
+- Data is now clean!
