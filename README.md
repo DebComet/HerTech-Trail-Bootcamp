@@ -77,7 +77,7 @@ By addressing missing values, outliers, and inconsistencies in the dataset durin
 
 - I checked for outliers
 
-
+![Outliers](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/238db8ef-5ce1-41ba-9b9e-7e5845dc562c)
 
 - Then data cleaning proper
 
