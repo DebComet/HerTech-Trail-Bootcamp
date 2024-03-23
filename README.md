@@ -87,6 +87,10 @@ By addressing missing values, outliers, and inconsistencies in the dataset durin
 ![Handeling datatype](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/e89a0bea-0b97-432a-8462-fc77be06f162)
 
    - I handled null vaues
+![handling null values 1](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/eb85a2fa-37b0-4edf-8aba-ddd461b4acd8)
+
+![handling null values 2](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/7ddc15ae-0651-4b5b-bc34-864bf142eeaa)
+
    - Data inconistencie were also handles
    - I cleaned the LGA names
 - Data is now clean!
