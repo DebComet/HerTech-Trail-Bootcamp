@@ -69,3 +69,7 @@ By addressing missing values, outliers, and inconsistencies in the dataset durin
 `print(f"This is the number of duplicates: {df.duplicated().sum()}")`
 
 
+
+![Datatypes pic](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/0382d0fc-c09e-4d41-ba4e-2067231d3a03)
+
+
