@@ -69,11 +69,13 @@ By addressing missing values, outliers, and inconsistencies in the dataset durin
 `print(f"This is the number of duplicates: {df.duplicated().sum()}")`
 ![Null value 2](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/d715ff11-4d5b-4343-9711-827119285259)
 
-- I assessed inconsistencies in the data entries
 ![Datatypes pic](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/0382d0fc-c09e-4d41-ba4e-2067231d3a03)
 
+- I assessed inconsistencies in the data entries
+
 - I checked for outliers
-![Outliers](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/c6af1102-031b-4702-a84a-702ee0c3f8f6)
+
+
 
 - Then data cleaning proper
 
