@@ -115,3 +115,10 @@ Exploratory Data Analysis (EDA) serves as a fundamental pillar in the data analy
 
  - I imported matplotlip to further undertand the data
 
+![EDA 1](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/174a3fa6-bc3d-438c-bdc4-3a5b7de00485)
+
+![EDA 2](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/098477f4-0fe1-4fcc-9491-93a1b7dfe4cf)
+
+![EDA 3](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/a0ba0d73-bc44-4f8d-bfaa-c44ee7714766)
+
+![EDA 4](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/770a1cde-1de8-4ca0-b035-b315eceecc67)
