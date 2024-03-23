@@ -73,6 +73,8 @@ By addressing missing values, outliers, and inconsistencies in the dataset durin
 
 - I assessed inconsistencies in the data entries
 
+![Assessing inconsistencies](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/a3438dd7-5c83-47a0-a8f4-a50a17677393)
+
 - I checked for outliers
 
 
