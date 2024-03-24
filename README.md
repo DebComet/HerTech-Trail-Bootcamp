@@ -103,7 +103,7 @@ By addressing missing values, outliers, and inconsistencies in the dataset durin
 
 ![LGA NAMES](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/ec6d7abd-5be8-46fc-bbcb-309c7f3ca298)
 
-- Data is now clean!
+- Data is now clean!:grinning:
 
 ![df clean](https://github.com/DebComet/HerTech-Trail-Bootcamp/assets/158510031/9a718aee-3a9a-4e8c-b405-6a6b3e570f48)
 
